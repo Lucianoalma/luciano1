@@ -1,1 +1,5 @@
-# luciano1
+# hola mundo
+
+# mi primer repositorio
+
+i love python , java, git
